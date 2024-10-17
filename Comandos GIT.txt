@@ -1,0 +1,35 @@
+Comandos GIT
+ git config --global user.name ""
+ git config --global user.email ""
+
+Inicializar um repositório Gut:
+ git init = 
+
+Clonar um repositório:
+ git clone =
+
+Verificar o status dos arquivos:
+ git status =
+
+Adicionar arquivos para a área de stage:
+ git add nome_do_arquivo # 
+ git add. #
+
+Confirmar mudanças:
+ git commit -m =
+
+Verificar o histórico de commits:
+ git log =
+
+Verificar diferenças entre versões:
+git diff = 
+
+Criar uma nova branch:
+ git branch nome_da_branch
+ 
+Mudar para uma branch:
+ git checkout nome_da_branch =
+
+Mescla uma branch com a branch atual:
+ git merge nome_da_branch
+
